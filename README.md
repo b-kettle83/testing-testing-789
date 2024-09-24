@@ -1,8 +1,10 @@
 # testing-testing-789
 Reviewing setup stuff
 
-<h1>Stuff About Me</h1>
+# Stuff About Me
 
-<p>Hobbies: Drumming, videoography, video editing, gaming</p>
+## Hobbies:
+
+Drumming, videoography, video editing, gaming
 
 <img src="images/Kaden.PNG" alt="Photo of Kaden">
