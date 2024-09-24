@@ -5,4 +5,4 @@ Reviewing setup stuff
 
 <p>Hobbies: Drumming, videoography, video editing, gaming</p>
 
-<img src="Kaden.PNG" alt="Photo of Kaden">
+<img src="img/Kaden.PNG" alt="Photo of Kaden">
